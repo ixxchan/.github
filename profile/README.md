@@ -12,6 +12,7 @@ My interest in functional programming stems from this course along with [Softwar
 Following the course [Practical Networked Applications in Rust](https://github.com/pingcap/talent-plan/blob/01b656db962cea7d653182354b0bb3b6f146dbe0/courses/rust/README.md). 
 The awesome course introduced may practial aspects in real-world engineering, but I did not invest much time in digesting the content and implementing the project 😓
 - [nb](https://github.com/ixxchan/nb): Naïve PoW blockchain in Rust. My first pleasant collaborative development experience (with [@Zack Wu](https://github.com/izackwu)) 😍. Also my first time programming event-driven networking application, so it may be rather immature 🙏
+- [peerster](https://github.com/ixxchan/peerster): A gossip-based decentralized system. An interesting course project.
 
 Some others:
 - [osc10e](https://github.com/ixxchan/osc10e): Operating System Concepts projects
